@@ -1,0 +1,31 @@
+{
+  "name": "mocha-hands-on",
+  "version": "0.0.0",
+  "description": "Mocha Hnds-on for DApps Dev Club",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha './**/*.spec.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dapps-dev-club/mocha-hands-on.git"
+  },
+  "keywords": [
+    "mocha.",
+    "hands-on",
+    "dapps-dev-club"
+  ],
+  "author": "dsoteo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dapps-dev-club/mocha-hands-on/issues"
+  },
+  "homepage": "https://github.com/dapps-dev-club/mocha-hands-on#readme"
+}
